@@ -1,0 +1,1 @@
+{"name":"Local: Thrones_and_Coins","url":"d:\\Problem_solving\\Thrones_and_Coins.cpp","tests":[{"id":1773702687561,"input":"3\n10\n.@@*@.**@@\n5\n.@@@@\n15\n.@@..@***..@@@*","output":"3\n4\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem_solving\\Thrones_and_Coins.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Apartments","url":"d:\\Problem_solving\\Apartments.cpp","tests":[{"id":1772233068548,"input":"4 3 5\n60 45 80 60\n30 60 75","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem_solving\\Apartments.cpp","group":"local","local":true}
